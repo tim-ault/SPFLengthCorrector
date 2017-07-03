@@ -1,0 +1,7 @@
+C:\GitHub\SPFLengthCorrector\SPFLengthCorrector\bin\Debug\SPFLengthCorrector.exe.config
+C:\GitHub\SPFLengthCorrector\SPFLengthCorrector\bin\Debug\SPFLengthCorrector.exe
+C:\GitHub\SPFLengthCorrector\SPFLengthCorrector\bin\Debug\SPFLengthCorrector.pdb
+C:\GitHub\SPFLengthCorrector\SPFLengthCorrector\bin\Debug\MySql.Data.dll
+C:\GitHub\SPFLengthCorrector\SPFLengthCorrector\obj\Debug\SPFLengthCorrector.exe
+C:\GitHub\SPFLengthCorrector\SPFLengthCorrector\obj\Debug\SPFLengthCorrector.pdb
+C:\GitHub\SPFLengthCorrector\SPFLengthCorrector\obj\Debug\SPFLengthCorrector.csprojResolveAssemblyReference.cache
